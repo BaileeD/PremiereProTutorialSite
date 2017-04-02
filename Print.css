@@ -1,0 +1,15 @@
+body {
+color:#000000;
+background:#ffffff;
+font-family:Arial;
+font-size:20pt;
+}
+
+a {
+text-decoration:underline;
+color:#0000ff;
+}
+
+nav, footer {
+display:none;
+}
